@@ -1,0 +1,5 @@
+http://data.worldbank.org/
+http://www.data.gov/
+https://data.sfgov.org/
+http://www.bls.gov/
+http://en.wikipedia.org/wiki/Wikipedia:Database_download
